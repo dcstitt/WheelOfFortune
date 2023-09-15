@@ -1,0 +1,10 @@
+C:\Users\Doug\source\Wheel\DougWheel\DougWheel\bin\Debug\DougWheel.exe.config
+C:\Users\Doug\source\Wheel\DougWheel\DougWheel\bin\Debug\DougWheel.exe
+C:\Users\Doug\source\Wheel\DougWheel\DougWheel\bin\Debug\DougWheel.pdb
+C:\Users\Doug\source\Wheel\DougWheel\DougWheel\obj\Debug\DougWheel.csproj.AssemblyReference.cache
+C:\Users\Doug\source\Wheel\DougWheel\DougWheel\obj\Debug\DougWheel.MainForm.resources
+C:\Users\Doug\source\Wheel\DougWheel\DougWheel\obj\Debug\DougWheel.Properties.Resources.resources
+C:\Users\Doug\source\Wheel\DougWheel\DougWheel\obj\Debug\DougWheel.csproj.GenerateResource.cache
+C:\Users\Doug\source\Wheel\DougWheel\DougWheel\obj\Debug\DougWheel.csproj.CoreCompileInputs.cache
+C:\Users\Doug\source\Wheel\DougWheel\DougWheel\obj\Debug\DougWheel.exe
+C:\Users\Doug\source\Wheel\DougWheel\DougWheel\obj\Debug\DougWheel.pdb
